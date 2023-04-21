@@ -1,0 +1,77 @@
+export const locale = {
+    lang: 'en',
+    data: {
+        'about': {
+            'title': 'About',
+            'jobTitle': 'Web and web3 developer',
+            'introductionOfMe': 'Enthusiastic about new technologies like web3 and working methods. I like to come up with ideas that to permit to improve business processes.',
+            'passionateAboutDevelopment':'Passionate about development',
+            'mobility': 'Mobile throughout Dhaka',
+            'years': 'Years',
+            'graduation': "BS in Software Engineering",
+            'myResearch': 'CDI contract search',
+            'researchDescription': 'I am looking for an innovative and user-centric company to best meet the needs customer, from his idea to the final delivery of his project, or participate in the improvement of a project existing.',
+            'and':'and',
+            'followMeOn':'Follow me on',
+        },
+        'contact': {
+            'contactMe': 'Contact Me',
+            'notHesitateToContactMe': 'Do not hesitate to contact me',
+            'identify': 'Identify',
+            'enterIdentify': 'Enter your identify',
+            'email': 'Email',
+            'enterEmail': 'Enter your email',
+            'object': 'Object',
+            'enterObject': 'Enter object',
+            'message': 'Message',
+            'send': 'Send',
+        },
+        'education': {
+            'title': 'Curriculum Vitae',
+            'eductionTitle': 'Education',
+            'experiencesTitle': 'Experiences',
+            'centerOfInterest': 'Center of interest',
+            'sport': 'Sport',
+            'trips': 'Trips',
+            'boardGames': 'Board games',
+            'languages': 'Languages',
+            'fluent': 'Fluent',
+            'goodLevel': 'Good level',
+            'french': 'French',
+            'english': 'English',
+            'bachlorDegree': "Bachelor's degree",
+            'bachlorDegreeDesc': "Bachlor of Science in Software Engineering",
+            'university': 'University of Dhaka, IIT',
+            'mission':'Mission',
+            'technologies':'Technologies',
+            'detail':'Detail',
+            'tripsCountries':'Singapore',
+            'boardGamesPlayed':'Chess, Ludo',
+            'years':'years'
+        },
+        'header': {
+            'home': 'Home',
+            'about': 'About',
+            'skills': 'Skills',
+            'references': 'References',
+            'contactMe': 'Contact me',
+        },
+        'home': {
+            'iAmDeveloper': 'I am developer',
+        },
+        'projects': {
+            'title': 'Portfolio',
+            'projectDetail':'Project detail',
+            'sourceCode':'Source code',
+        },
+        'references': {
+            'title': 'References',
+        },
+        'skills': {
+            'title': 'Skills',
+            'technologies': 'Technologies',
+            'tools': 'Tools',
+            'methodologies': 'Methodologies'
+        },
+    }
+}
